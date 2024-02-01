@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻 I’m a software engineer in the making.
 - 👩🏻‍🎓 Studying Information Technology at Banasthali Vidyapith,India
-- 🌱 I’m currently learning abou HTML,CSS,JS,C++,C,Python 
+- 🌱 I’m currently learning about HTML,CSS,JS,C++,C,Python 
 - 🎨 Working as a Graphic Designer 
 - 📚 Currrently learning about the world of [Quantum Computing](https://www.newyorker.com/magazine/2022/12/19/the-world-changing-race-to-develop-the-quantum-computer) and Microsoft Excel
   
