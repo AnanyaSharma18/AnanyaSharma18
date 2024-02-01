@@ -6,7 +6,7 @@
 - 🎨 Working as a Graphic Designer 
 - 📚 Currrently learning about the world of [Quantum Computing](https://www.newyorker.com/magazine/2022/12/19/the-world-changing-race-to-develop-the-quantum-computer) an Microsoft Excel
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaSharma18)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=AnanyaSharma18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
