@@ -1,10 +1,10 @@
-# 👋 Hi,I'm Ananya Sharma 
+# 👋 Hi, I'm Ananya Sharma 
 
 - 👩🏽‍💻 I’m a software engineer in the making.
-- 👩🏻‍🎓 Studying Information Technology at Banasthali Vidyapith,India
-- 🌱 I’m currently learning about HTML,CSS,JS,C++,C,Python 
+- 👩🏻‍🎓 Studying Information Technology at Banasthali Vidyapith, India
+- 🌱 I’m currently learning about HTML, CSS,JS, C++,C, Python 
 - 🎨 Working as a Graphic Designer 
-- 📚 Currrently learning about the world of [Quantum Computing](https://www.newyorker.com/magazine/2022/12/19/the-world-changing-race-to-develop-the-quantum-computer) and Microsoft Excel
+- 📚 Currently learning about the world of [Quantum Computing](https://www.newyorker.com/magazine/2022/12/19/the-world-changing-race-to-develop-the-quantum-computer) and Microsoft Excel
   
 ![](https://github-readme-stats.vercel.app/api?username=AnanyaSharma18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 💻 Tech Stack
